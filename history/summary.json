@@ -4,18 +4,20 @@
     "url": "https://www.ideaape.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.ideaape.com.ico",
     "slug": "idea-ape",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 487,
-    "timeDay": 307,
-    "timeWeek": 487,
-    "timeMonth": 487,
-    "timeYear": 487,
-    "dailyMinutesDown": {}
+    "time": 463,
+    "timeDay": 291,
+    "timeWeek": 463,
+    "timeMonth": 463,
+    "timeYear": 463,
+    "dailyMinutesDown": {
+      "2024-10-03": 0
+    }
   },
   {
     "name": "IdeaApe Alpha",
@@ -47,7 +49,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 30,
-    "timeDay": 45,
+    "timeDay": 73,
     "timeWeek": 30,
     "timeMonth": 30,
     "timeYear": 30,
