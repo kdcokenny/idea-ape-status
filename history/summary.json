@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ideaape.com.ico",
     "slug": "idea-ape",
     "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 472,
-    "timeDay": 376,
+    "timeDay": 431,
     "timeWeek": 472,
     "timeMonth": 472,
     "timeYear": 472,
-    "dailyMinutesDown": {
-      "2024-10-03": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "IdeaApe Alpha",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 462,
-    "timeDay": 455,
-    "timeWeek": 462,
-    "timeMonth": 462,
-    "timeYear": 462,
+    "time": 427,
+    "timeDay": 148,
+    "timeWeek": 427,
+    "timeMonth": 427,
+    "timeYear": 427,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 30,
-    "timeDay": 73,
-    "timeWeek": 30,
-    "timeMonth": 30,
-    "timeYear": 30,
+    "time": 27,
+    "timeDay": 5,
+    "timeWeek": 27,
+    "timeMonth": 27,
+    "timeYear": 27,
     "dailyMinutesDown": {}
   }
 ]
