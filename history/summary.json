@@ -22,9 +22,9 @@
     "url": "https://alpha.ideaape.com",
     "icon": "https://icons.duckduckgo.com/ip3/alpha.ideaape.com.ico",
     "slug": "idea-ape-alpha",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,14 +33,16 @@
     "timeWeek": 287,
     "timeMonth": 399,
     "timeYear": 399,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-05": 0
+    }
   },
   {
     "name": "IdeaApe Alpha API",
     "url": "https://alpha.ideaape.com/api",
     "icon": "https://icons.duckduckgo.com/ip3/alpha.ideaape.com.ico",
     "slug": "idea-ape-alpha-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,6 +53,8 @@
     "timeWeek": 28,
     "timeMonth": 26,
     "timeYear": 26,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-05": 0
+    }
   }
 ]
