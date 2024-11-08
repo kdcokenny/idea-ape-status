@@ -4,11 +4,9 @@ repo: idea-ape-status # The name of this repository
 
 sites:
   - name: IdeaApe
-    url: https://www.ideaape.com
-  - name: IdeaApe Alpha
-    url: https://alpha.ideaape.com
-  - name: IdeaApe Alpha API
-    url: https://alpha.ideaape.com/api
+    url: https://ideaape.com
+  - name: IdeaApe API
+    url: https://ideaape.com/api
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
