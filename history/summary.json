@@ -94,17 +94,19 @@
     "url": "https://ideaape.com/api",
     "icon": "https://icons.duckduckgo.com/ip3/ideaape.com.ico",
     "slug": "idea-ape-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 56,
-    "timeDay": 87,
-    "timeWeek": 47,
-    "timeMonth": 56,
-    "timeYear": 56,
-    "dailyMinutesDown": {}
+    "time": 58,
+    "timeDay": 89,
+    "timeWeek": 51,
+    "timeMonth": 58,
+    "timeYear": 58,
+    "dailyMinutesDown": {
+      "2024-11-19": 0
+    }
   }
 ]
