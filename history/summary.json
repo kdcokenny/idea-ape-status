@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ideaape.com.ico",
     "slug": "idea-ape",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 430,
-    "timeDay": 185,
-    "timeWeek": 255,
-    "timeMonth": 286,
-    "timeYear": 430,
-    "dailyMinutesDown": {
-      "2024-12-09": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 429,
+    "timeDay": 218,
+    "timeWeek": 235,
+    "timeMonth": 279,
+    "timeYear": 429,
+    "dailyMinutesDown": {}
   },
   {
     "name": "IdeaApe Dashboard",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ideaape.com.ico",
     "slug": "idea-ape-dashboard",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 177,
-    "timeDay": 107,
-    "timeWeek": 168,
-    "timeMonth": 177,
-    "timeYear": 177,
-    "dailyMinutesDown": {
-      "2024-12-09": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 176,
+    "timeDay": 135,
+    "timeWeek": 146,
+    "timeMonth": 176,
+    "timeYear": 176,
+    "dailyMinutesDown": {}
   },
   {
     "name": "IdeaApe Auth",
@@ -45,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ideaape.com.ico",
     "slug": "idea-ape-auth",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 88,
-    "timeDay": 67,
-    "timeWeek": 74,
+    "timeDay": 79,
+    "timeWeek": 71,
     "timeMonth": 88,
     "timeYear": 88,
-    "dailyMinutesDown": {
-      "2024-12-09": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "IdeaApe Market Research",
@@ -65,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ideaape.com.ico",
     "slug": "idea-ape-market-research",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 154,
-    "timeDay": 95,
-    "timeWeek": 127,
-    "timeMonth": 154,
-    "timeYear": 154,
-    "dailyMinutesDown": {
-      "2024-12-09": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 153,
+    "timeDay": 98,
+    "timeWeek": 118,
+    "timeMonth": 153,
+    "timeYear": 153,
+    "dailyMinutesDown": {}
   },
   {
     "name": "IdeaApe Business",
@@ -85,19 +77,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ideaape.com.ico",
     "slug": "idea-ape-business",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 143,
-    "timeDay": 86,
-    "timeWeek": 129,
-    "timeMonth": 143,
-    "timeYear": 143,
-    "dailyMinutesDown": {
-      "2024-12-09": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 142,
+    "timeDay": 101,
+    "timeWeek": 119,
+    "timeMonth": 142,
+    "timeYear": 142,
+    "dailyMinutesDown": {}
   },
   {
     "name": "IdeaApe API",
@@ -105,18 +95,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ideaape.com.ico",
     "slug": "idea-ape-api",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.91%",
+    "uptime": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
     "time": 49,
-    "timeDay": 28,
-    "timeWeek": 46,
-    "timeMonth": 51,
+    "timeDay": 37,
+    "timeWeek": 42,
+    "timeMonth": 49,
     "timeYear": 49,
     "dailyMinutesDown": {
-      "2024-12-09": 7,
       "2024-11-19": 35
     }
   }
