@@ -10,11 +10,11 @@
     "uptimeWeek": "95.24%",
     "uptimeMonth": "98.91%",
     "uptimeYear": "99.70%",
-    "time": 374,
-    "timeDay": 269,
-    "timeWeek": 266,
-    "timeMonth": 246,
-    "timeYear": 374,
+    "time": 373,
+    "timeDay": 173,
+    "timeWeek": 279,
+    "timeMonth": 245,
+    "timeYear": 373,
     "dailyMinutesDown": {
       "2025-01-15": 479
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "95.26%",
     "uptimeMonth": "98.91%",
     "uptimeYear": "99.44%",
-    "time": 186,
-    "timeDay": 206,
-    "timeWeek": 211,
-    "timeMonth": 189,
-    "timeYear": 186,
+    "time": 185,
+    "timeDay": 136,
+    "timeWeek": 217,
+    "timeMonth": 188,
+    "timeYear": 185,
     "dailyMinutesDown": {
       "2025-01-15": 478
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "98.91%",
     "uptimeYear": "99.44%",
     "time": 85,
-    "timeDay": 115,
-    "timeWeek": 102,
-    "timeMonth": 83,
+    "timeDay": 90,
+    "timeWeek": 101,
+    "timeMonth": 84,
     "timeYear": 85,
     "dailyMinutesDown": {
       "2025-01-15": 476
@@ -70,11 +70,11 @@
     "uptimeWeek": "95.29%",
     "uptimeMonth": "98.92%",
     "uptimeYear": "99.44%",
-    "time": 156,
-    "timeDay": 156,
-    "timeWeek": 179,
-    "timeMonth": 155,
-    "timeYear": 156,
+    "time": 155,
+    "timeDay": 108,
+    "timeWeek": 180,
+    "timeMonth": 154,
+    "timeYear": 155,
     "dailyMinutesDown": {
       "2025-01-15": 475
     }
@@ -90,11 +90,11 @@
     "uptimeWeek": "95.30%",
     "uptimeMonth": "98.92%",
     "uptimeYear": "99.44%",
-    "time": 149,
-    "timeDay": 192,
-    "timeWeek": 165,
-    "timeMonth": 153,
-    "timeYear": 149,
+    "time": 148,
+    "timeDay": 131,
+    "timeWeek": 156,
+    "timeMonth": 152,
+    "timeYear": 148,
     "dailyMinutesDown": {
       "2025-01-15": 473
     }
@@ -111,9 +111,9 @@
     "uptimeMonth": "98.92%",
     "uptimeYear": "99.48%",
     "time": 53,
-    "timeDay": 54,
-    "timeWeek": 51,
-    "timeMonth": 55,
+    "timeDay": 25,
+    "timeWeek": 52,
+    "timeMonth": 54,
     "timeYear": 53,
     "dailyMinutesDown": {
       "2025-01-15": 472,
