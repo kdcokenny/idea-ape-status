@@ -1,7 +1,7 @@
 url: https://ideaape.com/api
-status: up
-code: 200
-responseTime: 15
-lastUpdated: 2025-02-04T23:01:44.933Z
+status: down
+code: 502
+responseTime: 61
+lastUpdated: 2025-02-05T14:07:26.436Z
 startTime: 2024-11-08T20:51:03.669Z
 generator: Upptime <https://github.com/upptime/upptime>
