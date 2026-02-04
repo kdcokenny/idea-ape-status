@@ -4,9 +4,9 @@
     "url": "https://ideaape.com",
     "icon": "https://icons.duckduckgo.com/ip3/ideaape.com.ico",
     "slug": "idea-ape",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 251,
     "timeMonth": 261,
     "timeYear": 256,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-04": 0
+    }
   },
   {
     "name": "IdeaApe Dashboard",
     "url": "https://ideaape.com/dashboard",
     "icon": "https://icons.duckduckgo.com/ip3/ideaape.com.ico",
     "slug": "idea-ape-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,16 +35,18 @@
     "timeWeek": 160,
     "timeMonth": 164,
     "timeYear": 152,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-04": 0
+    }
   },
   {
     "name": "IdeaApe Auth",
     "url": "https://ideaape.com/auth/continue",
     "icon": "https://icons.duckduckgo.com/ip3/ideaape.com.ico",
     "slug": "idea-ape-auth",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +55,9 @@
     "timeWeek": 67,
     "timeMonth": 64,
     "timeYear": 63,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-04": 0
+    }
   },
   {
     "name": "IdeaApe Market Research",
@@ -94,18 +100,19 @@
     "url": "https://ideaape.com/api",
     "icon": "https://icons.duckduckgo.com/ip3/ideaape.com.ico",
     "slug": "idea-ape-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 40,
-    "timeDay": 35,
-    "timeWeek": 32,
-    "timeMonth": 37,
+    "timeDay": 27,
+    "timeWeek": 31,
+    "timeMonth": 36,
     "timeYear": 33,
     "dailyMinutesDown": {
+      "2026-02-04": 0,
       "2025-07-10": 44,
       "2025-02-05": 21
     }
