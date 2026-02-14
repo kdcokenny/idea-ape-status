@@ -4,9 +4,9 @@
     "url": "https://ideaape.com",
     "icon": "https://icons.duckduckgo.com/ip3/ideaape.com.ico",
     "slug": "idea-ape",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.97%",
@@ -16,6 +16,7 @@
     "timeMonth": 286,
     "timeYear": 260,
     "dailyMinutesDown": {
+      "2026-02-14": 0,
       "2026-02-06": 40,
       "2026-02-05": 77,
       "2026-02-04": 25
@@ -26,9 +27,9 @@
     "url": "https://ideaape.com/dashboard",
     "icon": "https://icons.duckduckgo.com/ip3/ideaape.com.ico",
     "slug": "idea-ape-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.97%",
@@ -38,6 +39,7 @@
     "timeMonth": 200,
     "timeYear": 156,
     "dailyMinutesDown": {
+      "2026-02-14": 0,
       "2026-02-06": 40,
       "2026-02-05": 77,
       "2026-02-04": 25
@@ -48,9 +50,9 @@
     "url": "https://ideaape.com/auth/continue",
     "icon": "https://icons.duckduckgo.com/ip3/ideaape.com.ico",
     "slug": "idea-ape-auth",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.97%",
@@ -60,6 +62,7 @@
     "timeMonth": 67,
     "timeYear": 63,
     "dailyMinutesDown": {
+      "2026-02-14": 0,
       "2026-02-06": 40,
       "2026-02-05": 77,
       "2026-02-04": 25
@@ -70,9 +73,9 @@
     "url": "https://ideaape.com/market-research",
     "icon": "https://icons.duckduckgo.com/ip3/ideaape.com.ico",
     "slug": "idea-ape-market-research",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.98%",
@@ -82,6 +85,7 @@
     "timeMonth": 112,
     "timeYear": 113,
     "dailyMinutesDown": {
+      "2026-02-14": 0,
       "2026-02-06": 40,
       "2026-02-05": 77
     }
@@ -91,9 +95,9 @@
     "url": "https://ideaape.com/business",
     "icon": "https://icons.duckduckgo.com/ip3/ideaape.com.ico",
     "slug": "idea-ape-business",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.98%",
@@ -103,6 +107,7 @@
     "timeMonth": 96,
     "timeYear": 99,
     "dailyMinutesDown": {
+      "2026-02-14": 0,
       "2026-02-06": 40,
       "2026-02-05": 77
     }
@@ -112,18 +117,19 @@
     "url": "https://ideaape.com/api",
     "icon": "https://icons.duckduckgo.com/ip3/ideaape.com.ico",
     "slug": "idea-ape-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.96%",
-    "time": 41,
+    "time": 40,
     "timeDay": 14,
     "timeWeek": 61,
     "timeMonth": 40,
     "timeYear": 34,
     "dailyMinutesDown": {
+      "2026-02-14": 0,
       "2026-02-06": 40,
       "2026-02-05": 77,
       "2026-02-04": 25,
